@@ -1,0 +1,5 @@
+project: rnshah9/one
+target: one
+
+cmds:
+  - cmd: /repo/src/parser/lexer/lexer @@ out
