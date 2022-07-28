@@ -2,4 +2,4 @@ project: one
 target: lexer
 
 cmds:
-  - cmd: /repo/src/parser/lexer/lexer @@ out
+  - cmd: /lexer @@ out
