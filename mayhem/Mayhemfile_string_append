@@ -1,0 +1,7 @@
+project: one
+target: string-append
+
+cmds:
+  - cmd: /fuzz_string_append
+    env:
+      ASAN_OPTIONS: detect_leaks=0

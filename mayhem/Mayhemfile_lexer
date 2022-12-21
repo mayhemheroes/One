@@ -1,0 +1,5 @@
+project: one
+target: lexer
+
+cmds:
+  - cmd: /lexer @@ out
